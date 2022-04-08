@@ -14,7 +14,7 @@ LCC = $(GBDK_HOME)bin/lcc
 LCCFLAGS = -debug
 
 # You can set the name of the .gb ROM file here
-PROJECTNAME    = chips-challenge
+PROJECTNAME    = chipschal
 
 SRCDIR      = src
 OBJDIR      = obj
